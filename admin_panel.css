@@ -1,0 +1,23 @@
+
+.header
+{
+    padding-top: 1em;
+}
+
+.control_panel{
+    margin-top: 3em;
+}
+.control_panel_form
+{
+    margin-right: 2em;
+}
+
+.control_panel_from_row
+{
+    margin-top: 1rem;
+}
+
+.submitButton
+{
+    margin-top: 1em;
+}

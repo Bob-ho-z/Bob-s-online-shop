@@ -1,0 +1,74 @@
+#test
+{
+  color:blue
+}
+
+#dropdown
+{
+
+  margin: 1em;
+}
+
+#history
+{
+  margin:1em;
+  padding:0.5em;
+}
+
+.shoppingtable
+{
+  margin-top:5em;
+}
+
+.goods_name
+{
+  text-align: center;
+}
+
+#shoppingCart
+{
+  margin: 1em;
+}
+
+#userEmail
+{
+  margin-left: 1em;
+}
+
+.footarea
+{
+  text-align: center;
+}
+
+#shoppingList 
+{
+  max-height: 0;
+  overflow: hidden;
+  transition: 1s;
+}
+
+#shoppingCart:hover ~ #shoppingList
+{
+  max-height: 100rem;
+  
+}
+
+#shoppingList:hover 
+{
+  max-height: 100rem;
+  /*color:red;*/
+  
+}
+
+#loginButton
+{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+
+#paypal-button-container
+{
+  margin-top: 1em;
+  
+}

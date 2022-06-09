@@ -1,0 +1,82 @@
+#dropdown
+{
+
+  margin: 1em;
+}
+
+#history
+{
+  margin:1em;
+  padding:0.5em;
+}
+
+.productIntroduction
+{
+  margin-top:5em;
+}
+
+.goods_name
+{
+  text-align: center;
+}
+
+#shoppingCart
+{
+  margin: 1em;
+}
+
+.footarea
+{
+  text-align: center;
+}
+
+.price
+{
+  color:red;
+  font-size: large;
+}
+.addToCartButton
+{
+  padding-top: 1.5em;
+}
+.showStock
+{
+  color:blue;
+}
+
+#shoppingList 
+{
+  max-height: 0;
+  overflow: hidden;
+  transition: 1s;
+}
+
+#shoppingCart:hover ~ #shoppingList
+{
+  max-height: 100rem;
+  
+}
+
+#shoppingList:hover 
+{
+  max-height: 100rem;
+  /*color:red;*/
+  
+}
+
+#userEmail
+{
+  margin-left: 1em;
+}
+
+#loginButton
+{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#paypal-button-container
+{
+  margin-top: 1em;
+  
+}
